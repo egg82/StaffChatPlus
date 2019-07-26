@@ -1,2 +1,2 @@
-# StaffChat-
+# StaffChat+
 Simple multi-server staff chat
